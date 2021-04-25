@@ -1,0 +1,5 @@
+-e git+ssh://git@github.com/Giving-Tuesday/classypy.git@master#egg=classypy
+
+bs4
+html5lib
+xlsx2csv
